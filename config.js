@@ -1,3 +1,6 @@
 'use strict';
 
-module.exports = {}
+module.exports = {
+    host: 'api.binance.com'
+    , port: 26003
+}
